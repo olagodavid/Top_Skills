@@ -20,7 +20,7 @@ Bellow is a list of the team members and their roles;
  1. David
 
 <h4> Project workflow</h4>
- As a team, we dicided to split the entire work in 2 groups. A group of four and a group of 5.
+ As a team, we decided to split the entire work in 2 groups. A group of four and a group of 5.
  We did this for efficiency purposes and priority.
  Fuctions were built in the following order in terms of priority.
  1. A function that adds skills to a list, views all the skills added to the list and indicates all the added skills.
