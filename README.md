@@ -10,9 +10,9 @@ Bellow is a list of the team members and their roles;
  4. Justin
 
 <h4> Team2 worked on a python function that lists all skills studied , lists all skills not studied and Checks on the learning progress </h4>
- 1. David
+ 1. Steven
  2. Raymond
- 3. Steven
+ 3. David
  4. Fredrick
  5. Charles.
 
